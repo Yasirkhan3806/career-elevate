@@ -14,7 +14,6 @@ By providing a platform with career guidance, learning roadmaps, and curated fre
 - **React**: A powerful JavaScript library for building user interfaces.
 - **Vite**: A fast build tool and development server for modern web projects.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
-- **Lenis**: A smooth scroll library for enhanced user experience.
 -   **AOS**: For animations on scrolling.
 
 ## Features
@@ -23,6 +22,11 @@ By providing a platform with career guidance, learning roadmaps, and curated fre
 - **Progress Tracker**: Track your progress as you go through the roadmap.
 - **Resource Reviews**: Evaluate resources to help guide others in their learning journey.
 - **Smooth Scrolling**: Enhanced scrolling experience with Lenis for a smooth, seamless user interface.
+
+## Ai Used 
+- **ChatGPT**: For generating content, answering user queries, and providing personalized recommendations.
+- **github copilot**: For code suggestions and improvements during development.
+
 
 ## Installation
 
